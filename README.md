@@ -35,3 +35,5 @@ We added our own templates like add product and list of products and updates to 
 => List Products
 
 ## All Final UIs
+
+[![Watch the video](https://github.com/kindaKharita/E_commerce/blob/main/video6014923495559925319.mp4)]
